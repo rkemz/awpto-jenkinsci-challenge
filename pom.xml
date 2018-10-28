@@ -45,7 +45,7 @@ http://maven.apache.org/maven-v4_0_0.xsd
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
           			<artifactId>maven-checkstyle-plugin</artifactId>
-          			<version>4.2.0</version>
+          			<version>3.0.0</version>
 			</plugin>
 			<plugin>
         			<groupId>org.apache.maven.plugins</groupId>
